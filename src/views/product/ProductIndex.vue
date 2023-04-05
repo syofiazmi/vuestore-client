@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="page-wrap">
+    <div id="page-wrap">
       <div class="grid-wrap">
         <ProductItem
           v-for="product in products"
